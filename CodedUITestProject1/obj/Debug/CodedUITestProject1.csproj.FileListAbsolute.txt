@@ -1,0 +1,5 @@
+\\cs1\CS_Projects\__keylogger\KeyLogger\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+\\cs1\CS_Projects\__keylogger\KeyLogger\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+\\cs1\CS_Projects\__keylogger\KeyLogger\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
+\\cs1\CS_Projects\__keylogger\KeyLogger\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+\\cs1\CS_Projects\__keylogger\KeyLogger\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
