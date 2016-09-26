@@ -16,3 +16,5 @@ Z:\CS320-1\KeyLogger\obj\Debug\KeyLogger.pdb
 \\cs1\2017\bxiong17\CS320-1\KeyLogger\obj\Debug\KeyLogger.pdb
 \\cs1\CS_Projects\__keylogger\KeyLogger\obj\Debug\KeyLogger.exe
 \\cs1\CS_Projects\__keylogger\KeyLogger\obj\Debug\KeyLogger.pdb
+C:\Users\bxiong17\Desktop\KeyLogger\obj\Debug\KeyLogger.exe
+C:\Users\bxiong17\Desktop\KeyLogger\obj\Debug\KeyLogger.pdb
