@@ -3,3 +3,8 @@ C:\Users\bxiong17\Desktop\CodedUITest - Random Strings\CodedUITest - Random Stri
 C:\Users\bxiong17\Desktop\CodedUITest - Random Strings\CodedUITest - Random Strings\obj\Debug\CodedUITest - Random Strings.csprojResolveAssemblyReference.cache
 C:\Users\bxiong17\Desktop\CodedUITest - Random Strings\CodedUITest - Random Strings\obj\Debug\CodedUITest - Random Strings.dll
 C:\Users\bxiong17\Desktop\CodedUITest - Random Strings\CodedUITest - Random Strings\obj\Debug\CodedUITest - Random Strings.pdb
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\CodedUITest - Random Strings\CodedUITest - Random Strings\bin\Debug\CodedUITest - Random Strings.dll
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\CodedUITest - Random Strings\CodedUITest - Random Strings\bin\Debug\CodedUITest - Random Strings.pdb
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\CodedUITest - Random Strings\CodedUITest - Random Strings\obj\Debug\CodedUITest - Random Strings.csprojResolveAssemblyReference.cache
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\CodedUITest - Random Strings\CodedUITest - Random Strings\obj\Debug\CodedUITest - Random Strings.dll
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\CodedUITest - Random Strings\CodedUITest - Random Strings\obj\Debug\CodedUITest - Random Strings.pdb

