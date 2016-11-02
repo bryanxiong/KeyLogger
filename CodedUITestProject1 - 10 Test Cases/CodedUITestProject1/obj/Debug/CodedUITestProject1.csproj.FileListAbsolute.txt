@@ -2,3 +2,8 @@ C:\Users\bxiong17\Desktop\CodedUITestProject1\CodedUITestProject1\bin\Debug\Code
 C:\Users\bxiong17\Desktop\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
 C:\Users\bxiong17\Desktop\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
 C:\Users\bxiong17\Desktop\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\CodedUITestProject1 - 10 Test Cases\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\CodedUITestProject1 - 10 Test Cases\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\CodedUITestProject1 - 10 Test Cases\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\CodedUITestProject1 - 10 Test Cases\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\CodedUITestProject1 - 10 Test Cases\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb

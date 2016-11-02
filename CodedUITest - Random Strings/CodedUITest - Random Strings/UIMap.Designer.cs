@@ -23,6 +23,7 @@ namespace CodedUITest___Random_Strings
     using Keyboard = Microsoft.VisualStudio.TestTools.UITesting.Keyboard;
     using Mouse = Microsoft.VisualStudio.TestTools.UITesting.Mouse;
     using MouseButtons = System.Windows.Forms.MouseButtons;
+    using System.Threading;
     
     
     [GeneratedCode("Coded UITest Builder", "14.0.23107.0")]
@@ -39,7 +40,14 @@ namespace CodedUITest___Random_Strings
             #endregion
 
             // Type 'Hello World!' in text box
-            uIItemEdit.Text = this.string4daysParams.UIItemEditText;
+            string temp = string4daysParams.ToString();
+            for (int i = 0; i < temp.Length; i++)
+            {
+                // uIItemEdit.Text = this.string4daysParams.UIItemEditText;
+                //uIItemEdit.Text = this.string4daysParams.UIItemEditText[i];
+                uIItemEdit.Text = temp[i].ToString();
+                Thread.Sleep(50);
+            }
         }
         
         #region Properties
@@ -83,15 +91,22 @@ namespace CodedUITest___Random_Strings
     {
         public static String GenRandomString()
         {
-            string ret = "";
+            List<char> ret = new List<char> { };
+            string result = "";
             Random rnd = new Random();
-            int size = rnd.Next(100, 500);
+            int size = rnd.Next(10, 50);
             for (int i = 0; i < size; i++)
             {
                 char c = (char)rnd.Next(32, 126);
-                ret += c;
+
+                ret.Insert(i,c);
+                //ret += c + " ";
             }
-            return ret;
+            foreach (var v in ret)
+            {
+                result += v + " ";
+            }
+            return result;
 
         }
         #region Fields
