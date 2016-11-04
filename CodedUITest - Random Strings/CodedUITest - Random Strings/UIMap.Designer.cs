@@ -39,13 +39,16 @@ namespace CodedUITest___Random_Strings
             WinEdit uIItemEdit = this.UIUntitledNotepadWindow.UIItemWindow.UIItemEdit;
             #endregion
 
+            string4daysParams s = new string4daysParams();
+            String temp = s.GenRandomString();
+            
             // Type 'Hello World!' in text box
-            string temp = string4daysParams.ToString();
+            //string temp = string4daysParams.ToString();
             for (int i = 0; i < temp.Length; i++)
             {
-                // uIItemEdit.Text = this.string4daysParams.UIItemEditText;
-                //uIItemEdit.Text = this.string4daysParams.UIItemEditText[i];
-                uIItemEdit.Text = temp[i].ToString();
+                uIItemEdit.Text += temp[i].ToString();
+                //uIItemEdit.Text = this.string4daysParams.UIItemEditText;
+                //uIItemEdit.Text = temp[i].ToString();
                 Thread.Sleep(50);
             }
         }
@@ -89,7 +92,7 @@ namespace CodedUITest___Random_Strings
     [GeneratedCode("Coded UITest Builder", "14.0.23107.0")]
     public class string4daysParams
     {
-        public static String GenRandomString()
+        public String GenRandomString()
         {
             List<char> ret = new List<char> { };
             string result = "";
@@ -104,7 +107,7 @@ namespace CodedUITest___Random_Strings
             }
             foreach (var v in ret)
             {
-                result += v + " ";
+                result += v;
             }
             return result;
 
@@ -113,7 +116,7 @@ namespace CodedUITest___Random_Strings
         /// <summary>
         /// Type 'Hello World!' in text box
         /// </summary>
-        public string UIItemEditText = GenRandomString();
+        //public string UIItemEditText = GenRandomString();
         #endregion
     }
     
