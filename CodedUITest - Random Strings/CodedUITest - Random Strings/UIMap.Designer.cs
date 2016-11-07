@@ -41,16 +41,32 @@ namespace CodedUITest___Random_Strings
 
             string4daysParams s = new string4daysParams();
             String temp = s.GenRandomString();
+
+            //List<String> characters = new List<string>();
+            //String[] collection = new string[temp.Length];
             
+
             // Type 'Hello World!' in text box
             //string temp = string4daysParams.ToString();
             for (int i = 0; i < temp.Length; i++)
             {
-                uIItemEdit.Text += temp[i].ToString();
+                uIItemEdit.Text += temp[i].ToString() + "\n";
                 //uIItemEdit.Text = this.string4daysParams.UIItemEditText;
                 //uIItemEdit.Text = temp[i].ToString();
-                Thread.Sleep(50);
+                Thread.Sleep(100);
+
+                //characters.Add(temp[i].ToString());
+                //collection[i] = temp[i].ToString();
             }
+           /* for (int c = 0; c < characters.Count; c++)
+            {
+               collection[c] = characters[c];
+               Thread.Sleep(500);
+            }
+            foreach (var x in collection)
+            {
+                uIItemEdit.Text = collection[x].ToString();
+            }*/
         }
         
         #region Properties
