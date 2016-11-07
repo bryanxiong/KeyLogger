@@ -1,0 +1,5 @@
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\NonAsciiValues\bin\Debug\NonAsciiValues.dll
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\NonAsciiValues\bin\Debug\NonAsciiValues.pdb
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\NonAsciiValues\obj\Debug\NonAsciiValues.csprojResolveAssemblyReference.cache
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\NonAsciiValues\obj\Debug\NonAsciiValues.dll
+C:\Users\bxiong17\Documents\GitHub\KeyLogger\NonAsciiValues\obj\Debug\NonAsciiValues.pdb

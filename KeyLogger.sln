@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyLogger", "KeyLogger.csproj", "{62F9233D-93B2-45D1-84DB-B465442934F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWithShiftKey", "..\TestWithShiftKey\TestWithShiftKey.csproj", "{78423308-2938-4278-9910-3254AE8A9C9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonAsciiValues", "NonAsciiValues\NonAsciiValues.csproj", "{9C6D8B89-BA5F-4D97-B6C6-8AE2C2DC74FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{62F9233D-93B2-45D1-84DB-B465442934F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62F9233D-93B2-45D1-84DB-B465442934F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62F9233D-93B2-45D1-84DB-B465442934F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78423308-2938-4278-9910-3254AE8A9C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78423308-2938-4278-9910-3254AE8A9C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78423308-2938-4278-9910-3254AE8A9C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78423308-2938-4278-9910-3254AE8A9C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6D8B89-BA5F-4D97-B6C6-8AE2C2DC74FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6D8B89-BA5F-4D97-B6C6-8AE2C2DC74FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6D8B89-BA5F-4D97-B6C6-8AE2C2DC74FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6D8B89-BA5F-4D97-B6C6-8AE2C2DC74FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
