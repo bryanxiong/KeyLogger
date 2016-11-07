@@ -50,7 +50,7 @@ namespace CodedUITest___Random_Strings
             //string temp = string4daysParams.ToString();
             for (int i = 0; i < temp.Length; i++)
             {
-                uIItemEdit.Text += temp[i].ToString() + "\n";
+                uIItemEdit.Text = temp[i].ToString() + "  ";
                 //uIItemEdit.Text = this.string4daysParams.UIItemEditText;
                 //uIItemEdit.Text = temp[i].ToString();
                 Thread.Sleep(100);
@@ -58,6 +58,7 @@ namespace CodedUITest___Random_Strings
                 //characters.Add(temp[i].ToString());
                 //collection[i] = temp[i].ToString();
             }
+            uIItemEdit.Text = temp;
            /* for (int c = 0; c < characters.Count; c++)
             {
                collection[c] = characters[c];
@@ -113,7 +114,7 @@ namespace CodedUITest___Random_Strings
             List<char> ret = new List<char> { };
             string result = "";
             Random rnd = new Random();
-            int size = rnd.Next(10, 50);
+            int size = rnd.Next(10, 20);
             for (int i = 0; i < size; i++)
             {
                 char c = (char)rnd.Next(32, 126);
