@@ -1,0 +1,5 @@
+C:\Users\bxiong17\Documents\GitHub\TestWithShiftKey\bin\Debug\TestWithShiftKey.dll
+C:\Users\bxiong17\Documents\GitHub\TestWithShiftKey\bin\Debug\TestWithShiftKey.pdb
+C:\Users\bxiong17\Documents\GitHub\TestWithShiftKey\obj\Debug\TestWithShiftKey.csprojResolveAssemblyReference.cache
+C:\Users\bxiong17\Documents\GitHub\TestWithShiftKey\obj\Debug\TestWithShiftKey.dll
+C:\Users\bxiong17\Documents\GitHub\TestWithShiftKey\obj\Debug\TestWithShiftKey.pdb
