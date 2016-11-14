@@ -81,7 +81,7 @@ namespace NetKeyLogger
             this.timerKeyMine = new System.Timers.Timer();
             this.timerKeyMine.Enabled = true;
             this.timerKeyMine.Elapsed += new System.Timers.ElapsedEventHandler(this.timerKeyMine_Elapsed);
-            this.timerKeyMine.Interval = 10;
+            this.timerKeyMine.Interval = .00000000000000000001;
 
             // 
             // timerBufferFlush

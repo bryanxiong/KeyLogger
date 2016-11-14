@@ -53,7 +53,7 @@ namespace CodedUITest___Random_Strings
                 uIItemEdit.Text = temp[i].ToString() + "  ";
                 //uIItemEdit.Text = this.string4daysParams.UIItemEditText;
                 //uIItemEdit.Text = temp[i].ToString();
-                Thread.Sleep(100);
+                Thread.Sleep(500);
 
                 //characters.Add(temp[i].ToString());
                 //collection[i] = temp[i].ToString();
