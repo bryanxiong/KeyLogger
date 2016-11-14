@@ -1,0 +1,5 @@
+C:\Users\rsexton17\Documents\GitHub\KeyLogger\UnicodeCharacters\UnicodeCharacters\bin\Debug\UnicodeCharacters.dll
+C:\Users\rsexton17\Documents\GitHub\KeyLogger\UnicodeCharacters\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+C:\Users\rsexton17\Documents\GitHub\KeyLogger\UnicodeCharacters\UnicodeCharacters\obj\Debug\UnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\rsexton17\Documents\GitHub\KeyLogger\UnicodeCharacters\UnicodeCharacters\obj\Debug\UnicodeCharacters.dll
+C:\Users\rsexton17\Documents\GitHub\KeyLogger\UnicodeCharacters\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb
