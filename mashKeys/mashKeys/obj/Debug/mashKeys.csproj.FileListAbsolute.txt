@@ -1,0 +1,5 @@
+C:\Users\hgrove17\Documents\Visual Studio 2015\Projects\mashKeys\mashKeys\bin\Debug\mashKeys.dll
+C:\Users\hgrove17\Documents\Visual Studio 2015\Projects\mashKeys\mashKeys\bin\Debug\mashKeys.pdb
+C:\Users\hgrove17\Documents\Visual Studio 2015\Projects\mashKeys\mashKeys\obj\Debug\mashKeys.csprojResolveAssemblyReference.cache
+C:\Users\hgrove17\Documents\Visual Studio 2015\Projects\mashKeys\mashKeys\obj\Debug\mashKeys.dll
+C:\Users\hgrove17\Documents\Visual Studio 2015\Projects\mashKeys\mashKeys\obj\Debug\mashKeys.pdb
