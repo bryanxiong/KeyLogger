@@ -95,15 +95,15 @@ namespace UnicodeCharacters
         /// <summary>
         /// Type set unicode characters into a text box
         /// </summary>
-        public char UIItemEditText = '\u0aff';
-        public char UIItemEditText1 = '\u0bff';
-        public char UIItemEditText2 = '\u0cff';
-        public char UIItemEditText3 = '\u0dff';
-        public char UIItemEditText4 = '\u0eff';
-        public char UIItemEditText5 = '\u0fff';
-        public char UIItemEditText6 = '\u09ff';
+        public char UIItemEditText = '\u0af9';
+        public char UIItemEditText1 = '\u0bfa';
+        public char UIItemEditText2 = '\u0cf2';
+        public char UIItemEditText3 = '\u0df4';
+        public char UIItemEditText4 = '\u0edf';
+        public char UIItemEditText5 = '\u0fda';
+        public char UIItemEditText6 = '\u09fb';
         public char UIItemEditText7 = '\u08ff';
-        public char UIItemEditText8 = '\u07ff';
+        public char UIItemEditText8 = '\u07fa';
         public char UIItemEditText9 = '\u06ff';
         #endregion
     }
