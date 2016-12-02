@@ -1122,6 +1122,272 @@ namespace Lots_of_Test_cases
                 return this.mTestAsciiValue72Params;
             }
         }
+        #endregion
+
+        public void TestAsciiValue73()
+        {
+            #region Variable Declarations
+            WinEdit uIItemEdit = this.UIUntitledNotepadWindow.UIItemWindow.UIItemEdit;
+            #endregion
+
+            // Type 'hellohello world' in text box
+            uIItemEdit.Text = this.TestAsciiValue73Params.UIItemEditText;
+        }
+
+        #region Properties
+        public virtual TestAsciiValue73Params TestAsciiValue73Params
+        {
+            get
+            {
+                if ((this.mTestAsciiValue73Params == null))
+                {
+                    this.mTestAsciiValue73Params = new TestAsciiValue73Params();
+                }
+                return this.mTestAsciiValue73Params;
+            }
+        }
+        #endregion
+
+        public void TestAsciiValue74()
+        {
+            #region Variable Declarations
+            WinEdit uIItemEdit = this.UIUntitledNotepadWindow.UIItemWindow.UIItemEdit;
+            #endregion
+
+            // Type 'hellohello world' in text box
+            uIItemEdit.Text = this.TestAsciiValue74Params.UIItemEditText;
+        }
+
+        #region Properties
+        public virtual TestAsciiValue74Params TestAsciiValue74Params
+        {
+            get
+            {
+                if ((this.mTestAsciiValue74Params == null))
+                {
+                    this.mTestAsciiValue74Params = new TestAsciiValue74Params();
+                }
+                return this.mTestAsciiValue74Params;
+            }
+        }
+        #endregion
+
+        public void TestAsciiValue75()
+        {
+            #region Variable Declarations
+            WinEdit uIItemEdit = this.UIUntitledNotepadWindow.UIItemWindow.UIItemEdit;
+            #endregion
+
+            // Type 'hellohello world' in text box
+            uIItemEdit.Text = this.TestAsciiValue75Params.UIItemEditText;
+        }
+
+        #region Properties
+        public virtual TestAsciiValue75Params TestAsciiValue75Params
+        {
+            get
+            {
+                if ((this.mTestAsciiValue75Params == null))
+                {
+                    this.mTestAsciiValue75Params = new TestAsciiValue75Params();
+                }
+                return this.mTestAsciiValue75Params;
+            }
+        }
+        #endregion
+
+        public void TestAsciiValue76()
+        {
+            #region Variable Declarations
+            WinEdit uIItemEdit = this.UIUntitledNotepadWindow.UIItemWindow.UIItemEdit;
+            #endregion
+
+            // Type 'hellohello world' in text box
+            uIItemEdit.Text = this.TestAsciiValue76Params.UIItemEditText;
+        }
+
+        #region Properties
+        public virtual TestAsciiValue76Params TestAsciiValue76Params
+        {
+            get
+            {
+                if ((this.mTestAsciiValue76Params == null))
+                {
+                    this.mTestAsciiValue76Params = new TestAsciiValue76Params();
+                }
+                return this.mTestAsciiValue76Params;
+            }
+        }
+        #endregion
+
+        public void TestAsciiValue77()
+        {
+            #region Variable Declarations
+            WinEdit uIItemEdit = this.UIUntitledNotepadWindow.UIItemWindow.UIItemEdit;
+            #endregion
+
+            // Type 'hellohello world' in text box
+            uIItemEdit.Text = this.TestAsciiValue77Params.UIItemEditText;
+        }
+
+        #region Properties
+        public virtual TestAsciiValue77Params TestAsciiValue77Params
+        {
+            get
+            {
+                if ((this.mTestAsciiValue77Params == null))
+                {
+                    this.mTestAsciiValue77Params = new TestAsciiValue77Params();
+                }
+                return this.mTestAsciiValue77Params;
+            }
+        }
+        #endregion
+
+        public void TestAsciiValue78()
+        {
+            #region Variable Declarations
+            WinEdit uIItemEdit = this.UIUntitledNotepadWindow.UIItemWindow.UIItemEdit;
+            #endregion
+
+            // Type 'hellohello world' in text box
+            uIItemEdit.Text = this.TestAsciiValue78Params.UIItemEditText;
+        }
+
+        #region Properties
+        public virtual TestAsciiValue78Params TestAsciiValue78Params
+        {
+            get
+            {
+                if ((this.mTestAsciiValue78Params == null))
+                {
+                    this.mTestAsciiValue78Params = new TestAsciiValue78Params();
+                }
+                return this.mTestAsciiValue78Params;
+            }
+        }
+        #endregion
+
+        public void TestAsciiValue79()
+        {
+            #region Variable Declarations
+            WinEdit uIItemEdit = this.UIUntitledNotepadWindow.UIItemWindow.UIItemEdit;
+            #endregion
+
+            // Type 'hellohello world' in text box
+            uIItemEdit.Text = this.TestAsciiValue79Params.UIItemEditText;
+        }
+
+        #region Properties
+        public virtual TestAsciiValue79Params TestAsciiValue79Params
+        {
+            get
+            {
+                if ((this.mTestAsciiValue79Params == null))
+                {
+                    this.mTestAsciiValue79Params = new TestAsciiValue79Params();
+                }
+                return this.mTestAsciiValue79Params;
+            }
+        }
+        #endregion
+
+        public void TestAsciiValue80()
+        {
+            #region Variable Declarations
+            WinEdit uIItemEdit = this.UIUntitledNotepadWindow.UIItemWindow.UIItemEdit;
+            #endregion
+
+            // Type 'hellohello world' in text box
+            uIItemEdit.Text = this.TestAsciiValue80Params.UIItemEditText;
+        }
+
+        #region Properties
+        public virtual TestAsciiValue80Params TestAsciiValue80Params
+        {
+            get
+            {
+                if ((this.mTestAsciiValue80Params == null))
+                {
+                    this.mTestAsciiValue80Params = new TestAsciiValue80Params();
+                }
+                return this.mTestAsciiValue80Params;
+            }
+        }
+        #endregion
+
+        public void TestAsciiValue81()
+        {
+            #region Variable Declarations
+            WinEdit uIItemEdit = this.UIUntitledNotepadWindow.UIItemWindow.UIItemEdit;
+            #endregion
+
+            // Type 'hellohello world' in text box
+            uIItemEdit.Text = this.TestAsciiValue81Params.UIItemEditText;
+        }
+
+        #region Properties
+        public virtual TestAsciiValue81Params TestAsciiValue81Params
+        {
+            get
+            {
+                if ((this.mTestAsciiValue81Params == null))
+                {
+                    this.mTestAsciiValue81Params = new TestAsciiValue81Params();
+                }
+                return this.mTestAsciiValue81Params;
+            }
+        }
+        #endregion
+
+        public void TestAsciiValue82()
+        {
+            #region Variable Declarations
+            WinEdit uIItemEdit = this.UIUntitledNotepadWindow.UIItemWindow.UIItemEdit;
+            #endregion
+
+            // Type 'hellohello world' in text box
+            uIItemEdit.Text = this.TestAsciiValue82Params.UIItemEditText;
+        }
+
+        #region Properties
+        public virtual TestAsciiValue82Params TestAsciiValue82Params
+        {
+            get
+            {
+                if ((this.mTestAsciiValue82Params == null))
+                {
+                    this.mTestAsciiValue82Params = new TestAsciiValue82Params();
+                }
+                return this.mTestAsciiValue82Params;
+            }
+        }
+        #endregion
+
+        public void TestAsciiValue83()
+        {
+            #region Variable Declarations
+            WinEdit uIItemEdit = this.UIUntitledNotepadWindow.UIItemWindow.UIItemEdit;
+            #endregion
+
+            // Type 'hellohello world' in text box
+            uIItemEdit.Text = this.TestAsciiValue83Params.UIItemEditText;
+        }
+
+        #region Properties
+        public virtual TestAsciiValue83Params TestAsciiValue83Params
+        {
+            get
+            {
+                if ((this.mTestAsciiValue83Params == null))
+                {
+                    this.mTestAsciiValue83Params = new TestAsciiValue83Params();
+                }
+                return this.mTestAsciiValue83Params;
+            }
+        }
+        #endregion
+
 
         public UIUntitledNotepadWindow UIUntitledNotepadWindow
         {
@@ -1134,7 +1400,7 @@ namespace Lots_of_Test_cases
                 return this.mUIUntitledNotepadWindow;
             }
         }
-        #endregion
+        
 
         #region Fields
         private TestAsciiValue32Params mTestAsciiValue32Params;
@@ -1178,6 +1444,17 @@ namespace Lots_of_Test_cases
         private TestAsciiValue70Params mTestAsciiValue70Params;
         private TestAsciiValue71Params mTestAsciiValue71Params;
         private TestAsciiValue72Params mTestAsciiValue72Params;
+        private TestAsciiValue73Params mTestAsciiValue73Params;
+        private TestAsciiValue74Params mTestAsciiValue74Params;
+        private TestAsciiValue75Params mTestAsciiValue75Params;
+        private TestAsciiValue76Params mTestAsciiValue76Params;
+        private TestAsciiValue77Params mTestAsciiValue77Params;
+        private TestAsciiValue78Params mTestAsciiValue78Params;
+        private TestAsciiValue79Params mTestAsciiValue79Params;
+        private TestAsciiValue80Params mTestAsciiValue80Params;
+        private TestAsciiValue81Params mTestAsciiValue81Params;
+        private TestAsciiValue82Params mTestAsciiValue82Params;
+        private TestAsciiValue83Params mTestAsciiValue83Params;
 
         private UIUntitledNotepadWindow mUIUntitledNotepadWindow;
         #endregion
@@ -2049,6 +2326,257 @@ namespace Lots_of_Test_cases
         public string UIItemEditText = GenAsciiChar();
         #endregion
     }
+
+    public class TestAsciiValue73Params
+    {
+        public static String GenAsciiChar()
+        {
+            string ret = "";
+            Random rnd = new Random();
+            int size = rnd.Next(5, 25);
+            for (int i = 0; i < size; i++)
+            {
+                char c = (char)rnd.Next(73, 73);
+                ret += c;
+            }
+            return "These should be I --> " + ret + "\n";
+        }
+        #region Fields
+        /// <summary>
+        /// Type 'some char character' in text box
+        /// </summary>
+        public string UIItemEditText = GenAsciiChar();
+        #endregion
+    }
+
+
+    public class TestAsciiValue74Params
+    {
+        public static String GenAsciiChar()
+        {
+            string ret = "";
+            Random rnd = new Random();
+            int size = rnd.Next(5, 25);
+            for (int i = 0; i < size; i++)
+            {
+                char c = (char)rnd.Next(74, 74);
+                ret += c;
+            }
+            return "These should be J --> " + ret + "\n";
+        }
+        #region Fields
+        /// <summary>
+        /// Type 'some char character' in text box
+        /// </summary>
+        public string UIItemEditText = GenAsciiChar();
+        #endregion
+    }
+
+    public class TestAsciiValue75Params
+    {
+        public static String GenAsciiChar()
+        {
+            string ret = "";
+            Random rnd = new Random();
+            int size = rnd.Next(5, 25);
+            for (int i = 0; i < size; i++)
+            {
+                char c = (char)rnd.Next(75, 75);
+                ret += c;
+            }
+            return "These should be K --> " + ret + "\n";
+        }
+        #region Fields
+        /// <summary>
+        /// Type 'some char character' in text box
+        /// </summary>
+        public string UIItemEditText = GenAsciiChar();
+        #endregion
+    }
+
+    public class TestAsciiValue76Params
+    {
+        public static String GenAsciiChar()
+        {
+            string ret = "";
+            Random rnd = new Random();
+            int size = rnd.Next(5, 25);
+            for (int i = 0; i < size; i++)
+            {
+                char c = (char)rnd.Next(76, 76);
+                ret += c;
+            }
+            return "These should be L --> " + ret + "\n";
+        }
+        #region Fields
+        /// <summary>
+        /// Type 'some char character' in text box
+        /// </summary>
+        public string UIItemEditText = GenAsciiChar();
+        #endregion
+    }
+
+    public class TestAsciiValue77Params
+    {
+        public static String GenAsciiChar()
+        {
+            string ret = "";
+            Random rnd = new Random();
+            int size = rnd.Next(5, 25);
+            for (int i = 0; i < size; i++)
+            {
+                char c = (char)rnd.Next(77, 77);
+                ret += c;
+            }
+            return "These should be M --> " + ret + "\n";
+        }
+        #region Fields
+        /// <summary>
+        /// Type 'some char character' in text box
+        /// </summary>
+        public string UIItemEditText = GenAsciiChar();
+        #endregion
+    }
+
+    public class TestAsciiValue78Params
+    {
+        public static String GenAsciiChar()
+        {
+            string ret = "";
+            Random rnd = new Random();
+            int size = rnd.Next(5, 25);
+            for (int i = 0; i < size; i++)
+            {
+                char c = (char)rnd.Next(78, 78);
+                ret += c;
+            }
+            return "These should be N --> " + ret + "\n";
+        }
+        #region Fields
+        /// <summary>
+        /// Type 'some char character' in text box
+        /// </summary>
+        public string UIItemEditText = GenAsciiChar();
+        #endregion
+    }
+
+    public class TestAsciiValue79Params
+    {
+        public static String GenAsciiChar()
+        {
+            string ret = "";
+            Random rnd = new Random();
+            int size = rnd.Next(5, 25);
+            for (int i = 0; i < size; i++)
+            {
+                char c = (char)rnd.Next(79, 79);
+                ret += c;
+            }
+            return "These should be O --> " + ret + "\n";
+        }
+        #region Fields
+        /// <summary>
+        /// Type 'some char character' in text box
+        /// </summary>
+        public string UIItemEditText = GenAsciiChar();
+        #endregion
+    }
+
+    public class TestAsciiValue80Params
+    {
+        public static String GenAsciiChar()
+        {
+            string ret = "";
+            Random rnd = new Random();
+            int size = rnd.Next(5, 25);
+            for (int i = 0; i < size; i++)
+            {
+                char c = (char)rnd.Next(80, 80);
+                ret += c;
+            }
+            return "These should be P --> " + ret + "\n";
+        }
+        #region Fields
+        /// <summary>
+        /// Type 'some char character' in text box
+        /// </summary>
+        public string UIItemEditText = GenAsciiChar();
+        #endregion
+    }
+
+    public class TestAsciiValue81Params
+    {
+        public static String GenAsciiChar()
+        {
+            string ret = "";
+            Random rnd = new Random();
+            int size = rnd.Next(5, 25);
+            for (int i = 0; i < size; i++)
+            {
+                char c = (char)rnd.Next(81, 81);
+                ret += c;
+            }
+            return "These should be Q --> " + ret + "\n";
+        }
+        #region Fields
+        /// <summary>
+        /// Type 'some char character' in text box
+        /// </summary>
+        public string UIItemEditText = GenAsciiChar();
+        #endregion
+    }
+
+    public class TestAsciiValue82Params
+    {
+        public static String GenAsciiChar()
+        {
+            string ret = "";
+            Random rnd = new Random();
+            int size = rnd.Next(5, 25);
+            for (int i = 0; i < size; i++)
+            {
+                char c = (char)rnd.Next(82, 82);
+                ret += c;
+            }
+            return "These should be R --> " + ret + "\n";
+        }
+        #region Fields
+        /// <summary>
+        /// Type 'some char character' in text box
+        /// </summary>
+        public string UIItemEditText = GenAsciiChar();
+        #endregion
+    }
+
+    public class TestAsciiValue83Params
+    {
+        public static String GenAsciiChar()
+        {
+            string ret = "";
+            Random rnd = new Random();
+            int size = rnd.Next(5, 25);
+            for (int i = 0; i < size; i++)
+            {
+                char c = (char)rnd.Next(83, 83);
+                ret += c;
+            }
+            return "These should be S --> " + ret + "\n";
+        }
+        #region Fields
+        /// <summary>
+        /// Type 'some char character' in text box
+        /// </summary>
+        public string UIItemEditText = GenAsciiChar();
+        #endregion
+    }
+
+
+
+
+
+
+
+
 
     [GeneratedCode("Coded UITest Builder", "14.0.23107.0")]
     public class UIUntitledNotepadWindow : WinWindow
