@@ -1,0 +1,5 @@
+C:\Users\rsexton17\Documents\GitHub\KeyLogger\TestingFunCharacters\TestingFunCharacters\bin\Debug\TestingFunCharacters.dll
+C:\Users\rsexton17\Documents\GitHub\KeyLogger\TestingFunCharacters\TestingFunCharacters\bin\Debug\TestingFunCharacters.pdb
+C:\Users\rsexton17\Documents\GitHub\KeyLogger\TestingFunCharacters\TestingFunCharacters\obj\Debug\TestingFunCharacters.csprojResolveAssemblyReference.cache
+C:\Users\rsexton17\Documents\GitHub\KeyLogger\TestingFunCharacters\TestingFunCharacters\obj\Debug\TestingFunCharacters.dll
+C:\Users\rsexton17\Documents\GitHub\KeyLogger\TestingFunCharacters\TestingFunCharacters\obj\Debug\TestingFunCharacters.pdb
