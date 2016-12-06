@@ -78,6 +78,20 @@ namespace Lots_of_Test_cases
             this.UIMap.TestAsciiValue81();
             this.UIMap.TestAsciiValue82();
             this.UIMap.TestAsciiValue83();
+            this.UIMap.TestAsciiValue84();
+            this.UIMap.TestAsciiValue85();
+            this.UIMap.TestAsciiValue86();
+            this.UIMap.TestAsciiValue87();
+            this.UIMap.TestAsciiValue88();
+            this.UIMap.TestAsciiValue89();
+            this.UIMap.TestAsciiValue90();
+            this.UIMap.TestAsciiValue91();
+            this.UIMap.TestAsciiValue92();
+            this.UIMap.TestAsciiValue93();
+
+
+
+
         }
 
         #region Additional test attributes
